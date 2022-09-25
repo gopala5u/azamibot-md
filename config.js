@@ -72,7 +72,8 @@ global.eror = '```404 error```'
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.ddocx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-global.dpdf = 'application/pdf'global.drtf = 'text/rtf' 
+global.dpdf = 'application/pdf'
+global.drtf = 'text/rtf' 
 global.thumbdoc = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg'
 
  /*=========== FAKE SIZE ===========*/
@@ -86,7 +87,8 @@ global.dmenub = '┊𔔮' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer // COMMAND MENU
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
-global.cmenut = '❏––––––『' //topglobal.cmenuh = '』––––––' 
+global.cmenut = '❏––––––『' //top
+global.cmenuh = '』––––––' 
 
 //header
 global.cmenub = '┊𖤐 ' //body
