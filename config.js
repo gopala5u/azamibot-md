@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 global.sig = 'https://www.instagram.com/_lucxfvr'
 global.sgh = 'https://github.com/VarrelKun'
 global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
-global.sdc = " "global.snh = 'https://PentaPage.my.id' 
+global.snh = 'https://PentaPage.my.id' 
 
 /*============== PAYMENT ==============*/
 global.pdana = '085954184111'
