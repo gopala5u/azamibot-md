@@ -30,6 +30,76 @@ global.APIKeys = { // APIKey Here
 	'https://api.lolhuman.xyz': 'apikeylu'
 }
 
+global.sig = 'https://www.instagram.com/_lucxfvr'
+global.sgh = 'https://github.com/VarrelKun'
+global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
+global.sdc = " "global.snh = 'https://PentaPage.my.id' 
+
+/*============== PAYMENT ==============*/
+global.pdana = '085954184111'
+global.povo = '_'
+global.pgopay = '_'
+global.ppulsa = '085954184111'
+global.ppulsa2 = '085954184111'
+global.psaweria = '_' 
+
+/*============== NOMOR ==============*/
+global.nomorbot = '17754764633'
+global.nomorown = '6285954184111'
+global.namebot = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.nameown = 'SIJEMBOT' 
+
+global.wm = '   「 𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌 」' //Main Watermark
+global.wm2 = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.wm3 = '⛧𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
+global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
+global.titlebot = '⛧┊ PENTAGRAM ʙᴏᴛ'
+global.author = global.wm
+
+global.thumb = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg'
+global.thumbbc = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' 
+
+global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
+
+ /*============== TEXT ==============*/
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.eror = '```404 error```' 
+
+/*=========== TYPE DOCUMENT ===========*/
+global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
+global.ddocx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+global.dpdf = 'application/pdf'global.drtf = 'text/rtf' 
+global.thumbdoc = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg'
+
+ /*=========== FAKE SIZE ===========*/
+global.fsizedoc = '99999999999999' // default 10TB
+global.fpagedoc = '999'
+
+/*=========== HIASAN ===========*/
+// DEFAULT MENU
+global.dmenut = '❏═┅═━–〈' //top
+global.dmenub = '┊𔔮' //body
+global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenuf = '┗––––––––––✦' //footer // COMMAND MENU
+global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
+global.cmenut = '❏––––––『' //topglobal.cmenuh = '』––––––' 
+
+//header
+global.cmenub = '┊𖤐 ' //body
+global.cmenuf = '┗━═┅═━––––––๑\n' //footer
+global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n ' //after
+global.pmenus = '┊' //pembatas menu selector 
+global.htki = '––––––『' // Hiasan Titile (KIRI)
+global.htka = '』––––––' // Hiasan Title (KANAN)
+global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
+global.lolm = 'Ⓛ' //LOGO FREE ON MENU.JS
+global.htjava = '𔔮' //hiasan Doang :v
+global.hsquere = ['⛶','❏','⫹⫺']
+
 /*// Sticker WM
 global.packname = ''
 global.author = 'Bot V5'
@@ -38,7 +108,7 @@ global.author = 'Bot V5'
 global.api = 'bukanitucuy14315195'
 global.imgbb = '4fe0927d28af0d5ca44d6d9c0516bee5'*/
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 25 // The higher, The harder levelup
 
 global.rpg = {
 	emoticon(string) {
